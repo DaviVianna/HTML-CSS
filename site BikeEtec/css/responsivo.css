@@ -1,0 +1,64 @@
+/*aplicando responsividade css ao nosso layout com Media Queries*/
+
+
+/*header*/
+@media (max-width: 1000px) {
+
+	header nav li a {
+		color: red;
+	}
+	header .container {
+		width: 100%;
+	}
+}
+
+/*seçao de introdução*/
+@media (max-width: 680px) {
+	.intro h1 {
+		font-size: 30px;
+		padding-top: 40px;
+
+	}
+	blockquote {
+		font-size: 12pt;
+
+	}
+
+	nav li a {
+		font-size: 14px;
+
+	}
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+/*seçao produtos*/
+@media (max-width: 1000px) {
+
+	.lista-produtos li {
+		width: 100%;
+		margin: 10px;
+	}
+}
+
+
+/*seçao portfolio*/
+@media (max-width: 800px) {
+
+	.portfolio li {
+		width: 100%;
+		margin: 10px;
+	}
+}
+
+

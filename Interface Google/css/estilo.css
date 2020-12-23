@@ -1,0 +1,117 @@
+body  {
+	background-color: rgb(230, 225,220);
+}
+
+.google-box {
+	margin: 120px auto;
+	max-width: 1000px;
+	height: 550px;
+	border-radius: 8px;
+	background: rgb(230, 225, 220);
+	box-shadow: 10px 10px 15px rgb(192, 183, 183), -10px -10px 15px white;
+}
+
+.lista-icon {
+	display: flex;
+	float: right;
+	margin: 1px 0;
+}
+
+.icon-msg {
+	margin: 20px;
+
+}
+
+.icon-menu {
+	margin: 20px;
+
+}
+
+.icon-person{
+	margin: 20px;
+
+}
+
+.lista-icon img:hover {
+	background-color: gray;
+
+}
+
+.img-google {
+	width: 450px;
+	height: 150px;
+	margin: 100px 0 0 270px;
+
+}
+
+.box-busca {
+	margin: 30px auto;
+	width: 600px;
+	height: 50px;
+	border-radius: 30px;
+	background: rgb(230, 225, 220);
+	box-shadow: 10px 10px 15px rgb(192, 183, 183), -10px -10px 15px #fff;
+
+
+}
+
+.google-icon {
+	width: 29px;
+	height: 29px;
+	position: relative;
+	bottom: -10px;
+	left: 20px;
+
+}
+
+.box-busca input {
+	width: 500px;
+	border: none;
+	outline: none;
+	padding: 10px;
+	background-color: transparent;
+	font-size: 18px;
+	position: relative;
+	top: 3px;
+	left: 20px;
+
+}
+
+.mic-icon {
+	position: relative;
+	top: 6px;
+
+}
+
+.mic-icon:hover {
+	background-color: gray;
+}
+
+.icon-box {
+	width: 200px;
+	display: flex;
+	margin: auto;
+}
+
+.add-icon {
+
+margin: 20px;
+
+}
+ 
+.album-icon {
+
+margin: 20px;
+
+}
+
+.emoji-icon {
+
+ margin: 20px;
+ 
+}
+
+
+.icon-box img:hover {
+	background: gray;
+}

@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.loginForm {
+    margin: 50px auto;
+    justify-content: center;
+    align-items: center;
+    max-width: 50%;
+    height: 660px;
+    background-color: #1e272e;
+  
+}
+
+h1 {
+    text-align: center;
+    padding-top: 80px;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+    margin-bottom: 64px;
+    color: white;
+}
+
+input {
+    
+    width: 400px;
+    padding: 10px;
+    text-decoration: none;
+    background-color: #34495e;
+    border-radius: 12px;
+    color: white;
+    margin: 20px;
+    margin-left: 90px;
+    margin-top: 190px 0;
+}
+
+
+.inputBtn {
+    text-align: center;
+    margin-left: 220px;
+    margin-top: 90px 0;
+    text-decoration: none;
+    width: 200px;
+    padding: 8px;
+    background-color: #485460;
+    list-style: none;
+    transition: 0.6s;
+ 
+}
+
+
+.inputBtn:hover {
+    cursor: pointer;
+}

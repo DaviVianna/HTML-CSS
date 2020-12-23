@@ -1,0 +1,158 @@
+
+/* NavBar */
+nav.navbar-principal {
+	padding: 30px 0px;
+	background: rgb(37, 37, 37);
+}
+
+
+nav form {
+	margin-left: 25px;
+}
+
+
+.icon a{
+	padding: 0 10px;
+	color: #FFF;
+	text-decoration: none;
+}
+
+.btn-pesquisa {
+	background-color:  #108a51;
+	color: #FFF;
+}
+
+/* Fim NavBar */
+
+
+/* Menu Verde */
+
+.menu2{
+	padding: 10px 5px 8px 5px;
+	background-color: #108a51;
+	margin-bottom: 20px;
+  }
+
+.menu2 a img{
+	margin-left: 35px;
+  }
+
+  .menu2 a p{
+	color: #FFF;
+	text-decoration: none;
+	text-align: center;
+  }
+
+/*Fim Menu Verde */
+
+
+/* Menu Lateral */
+.filtro{
+	padding: 20px;
+	background-color: #252525;
+	border-top: 3px solid #108a51;
+  }
+  
+.opcao {
+	margin-top: 15px;
+  }
+  
+.verde{
+	background-color: #108a51;
+	padding: 24px;
+  }
+/*Fim Menu Lateral */
+
+
+
+
+
+/* Menu Marcas */
+
+  .navmarcas {
+	background-color: #999999;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin: 0 auto;
+  }
+  
+ 
+  
+  .produtos {
+	margin-top: 20px;
+  }
+
+  /* Fim Menu Marcas */
+
+
+/* Layout
+-----------------------------*/
+html, body, #home {
+	height: 100%;
+	overflow-x: hidden;
+}
+
+body {
+	
+	font-family: Helvetica,Arial,sans-serif;
+}
+
+/* Barra de navegação
+-----------------------------*/
+
+/* Rodapé */
+
+.rodape {
+	background-color: #108a51;
+}
+
+.rtext p {
+	color: #FFF;
+	font-weight: bold;
+}
+
+.rtext2 p {
+	color: #FFF;
+	font-weight: bold;
+	text-align: center;
+}
+
+.social a img {
+	margin-left: 30px;
+
+}
+
+
+@media (max-width: 800px) {
+	
+	.rtext p {
+		color: #FFF;
+		font-weight: bold;
+		text-align: center;
+	}
+
+	.social {
+		margin-top: 20px;
+		margin-left: 20px;
+	}
+	
+}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { 
+
+}
+	
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { 
+	
+ }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { 
+	
+ }
+
+
+
